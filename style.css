@@ -1,0 +1,35 @@
+body {
+    background-color: #EEE;
+}
+
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#header {
+    background-color: #FF0000;
+    color: white;
+    text-align: center;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    widht: 180px;
+    flata: left;
+}
+
+#main {
+    width: 600px;
+    float: right;
+}
+
+#footer {
+    clear: both;
+}
